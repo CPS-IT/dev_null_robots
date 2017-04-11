@@ -24,16 +24,16 @@ $EM_CONF[$_EXTKEY] = array (
   'author_company' => '',
   'constraints' => 
   array (
-    'depends' => 
+    'depends' =>
     array (
       'cms' => '',
       'php' => '5.3.0-0.0.0',
-      'typo3' => '6.0.0-6.2.99',
+      'typo3' => '6.0.0-7.99.99',
     ),
-    'conflicts' => 
+    'conflicts' =>
     array (
     ),
-    'suggests' => 
+    'suggests' =>
     array (
     ),
   ),

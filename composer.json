@@ -1,0 +1,19 @@
+{
+  "name": "cpsit/dev-null-robots",
+  "type": "typo3-cms-extension",
+  "description": "Create robots.txt depending on domain records. This is a fork of the TER version 3.0.0 which allows running under TYPO3 7.",
+  "homepage": "https://www.dev-null.at/typo/extensions/devnull-robots",
+  "authors": [
+    {
+      "name": "Wolfgang Rotschek",
+      "email": "scotty@dev-null.at",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "typo3/cms-core": ">=6.0.0,<=7.99.99"
+  },
+  "replace": {
+    "dev-null-robots": "self.version"
+  }
+}
