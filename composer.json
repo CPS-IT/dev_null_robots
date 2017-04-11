@@ -12,8 +12,5 @@
   ],
   "require": {
     "typo3/cms-core": ">=6.0.0,<=7.99.99"
-  },
-  "replace": {
-    "dev-null-robots": "self.version"
   }
 }
